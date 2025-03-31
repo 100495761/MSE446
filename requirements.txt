@@ -1,6 +1,8 @@
+jupyter
 matplotlib
-numpy
 nbformat
+notebook
+numpy
 pandas
 scikit-learn
 seaborn
